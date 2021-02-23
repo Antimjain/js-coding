@@ -1,0 +1,16 @@
+1.What is the purpose of callback function as an argument of setState()?
+post action after dom re-render
+
+
+How to bind methods or event handlers in JSX callbacks?
+constructor this.handlers = this.handlers.bind(this)
+public class syntax 
+  handlers = () =>{
+  }
+
+  render 
+  this.handlers
+arrow function ()=> this.handlers() 
+
+
+What are synthetic events in React?
