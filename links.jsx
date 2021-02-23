@@ -1,4 +1,5 @@
 // https://www.programiz.com/javascript/examples
+// https://javascript.info/
 
 96, 97,
 82, 81, 80, 79, 78, 77, 76, 75, 74, 73, 72
