@@ -15,5 +15,3 @@ arrow function ()=> this.handlers()
 
 What are synthetic events in React?
 
-queue
-stack
