@@ -1,0 +1,25 @@
+git clone URL
+
+
+git status
+git add fileName
+git add .
+git commit -m "msg"
+git branch 
+git push origin branch
+
+
+git branch //branch checking
+git checkout -b newBranch //branch creation
+
+gitk //check changes of local
+git pull origin branchname //pull code from the branch
+
+git stash //previous code
+
+git fetch --all
+git log
+
+git branch -D branchname //delete branch
+
+git hard reset --hard <commit hash> //reset to particular commit
